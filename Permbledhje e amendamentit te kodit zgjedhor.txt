@@ -1,0 +1,149 @@
+
+Përmbledhje e zgjeruar e amendamenteve të propozuara në Kodin Zgjedhor
+
+E shkurter
+
+Projektligji propozon një reformë të gjerë të Kodit Zgjedhor, me synim rritjen e përfaqësimit qytetar, gjithëpërfshirjes dhe transparencës. Ndryshimet kryesore përfshijnë krijimin e listave qytetare me kandidatë të pavarur, mbledhjen dhe verifikimin digjital të firmave përmes e-Albania, votën parapëlqyese për kandidatët, depolitizimin e komisioneve zgjedhore përmes përzgjedhjes me short të administratorëve të trajnuar, si dhe ndarjen e Shqipërisë në katër rajone zgjedhore. Parashikohet gjithashtu votimi me kuti të lëvizshme dhe shërbime mbështetëse për personat me aftësi të kufizuara, përditësimi elektronik në kohë reale dhe auditimi i listave të zgjedhësve, numërimi i votave për subjektet në qendrat e votimit dhe forcimi i kontrollit mbi financimin politik e përdorimin e burimeve publike.  
+
+Propozimet më cilësore janë digjitalizimi i firmave, listat qytetare, votimi i aksesueshëm dhe krijimi i një zyre të specializuar për kontrollin financiar. Këto masa ulin barrierat për kandidatët e pavarur, zgjerojnë pjesëmarrjen, forcojnë konkurrencën dhe mundësojnë kontroll më profesional të financimit politik. Shumë pozitiv është edhe auditimi periodik i listave zgjedhore dhe mbrojtja e denoncuesve të abuzimeve me burimet publike. Kodi aktual është publikuar në portalin zyrtar të QBZ-së.  
+
+Projektligji propozon një reformë të gjerë të sistemit zgjedhor shqiptar. Ndryshimet prekin administrimin e zgjedhjeve, kandidatët e pavarur, votën parapëlqyese, përfaqësimin gjinor, aksesin e personave me aftësi të kufizuara, financimin politik, listat e zgjedhësve, mediat dhe numërimin e votave. 
+
+
+
+
+Me e gate 
+
+1. Krijimi i listave qytetare me kandidatë të pavarur
+
+	•	Qytetarët do të kenë mundësi të paraqesin jo vetëm një kandidat të vetëm, por një listë qytetare me një ose më shumë kandidatë të pavarur.
+	•	Listat mund të paraqiten si për zgjedhjet parlamentare, ashtu edhe për këshillat bashkiakë.
+	•	Kandidatët duhet të jenë banorë të zonës zgjedhore ku kandidojnë dhe nuk mund të jenë pjesë e një partie ose koalicioni.
+	•	Për regjistrimin e listës krijohet një komitet nismëtar me të paktën nëntë zgjedhës.
+	•	Në zgjedhjet parlamentare kërkohet mbështetja e 1% të zgjedhësve të zonës, por jo më shumë se 3 000 firma.
+	•	Listat qytetare parashikohet të përfitojnë edhe financim publik deri në 300 000 lekë.
+
+Ky është një nga ndryshimet më të rëndësishme, sepse krijon mundësi reale konkurrimi jashtë strukturave tradicionale partiake.
+
+2. Digjitalizimi i mbledhjes së firmave
+
+	•	KQZ-ja duhet të krijojë një platformë online për mbledhjen dhe verifikimin e firmave mbështetëse.
+	•	Identifikimi i zgjedhësve parashikohet të bëhet përmes identitetit digjital dhe sistemit e-Albania.
+	•	Kjo procedurë do të përdoret si për kandidatët e pavarur parlamentarë, ashtu edhe për kandidatët dhe listat qytetare në zgjedhjet vendore.
+
+Digjitalizimi ul koston e mbledhjes së firmave, redukton nevojën për procedura fizike dhe e bën procesin më të aksesueshëm për qytetarët.
+
+3. Vota parapëlqyese dhe rirenditja e kandidatëve
+
+	•	Çdo zgjedhës do të ketë të drejtën e një vote parapëlqyese për një kandidat të listës së subjektit që ka zgjedhur.
+	•	Kandidatët do të rirenditen sipas numrit të votave parapëlqyese të marra.
+	•	Mandatet do të shpërndahen duke filluar nga kandidati me numrin më të lartë të votave.
+	•	Kur dy kandidatë kanë numër të barabartë votash, renditja përcaktohet me short.
+	•	Për listat parlamentare, në çdo tre kandidatë të rirenditur duhet të përfshihet një kandidat i gjinisë më pak të përfaqësuar.
+	•	Për këshillat bashkiakë, në çdo dy kandidatë duhet të përfaqësohet gjinia më pak e përfaqësuar.
+
+Ky ndryshim rrit ndikimin e drejtpërdrejtë të zgjedhësve mbi personat që fitojnë mandat dhe dobëson kontrollin absolut të kryetarëve të partive mbi renditjen e kandidatëve.
+
+4. Ndarja e Shqipërisë në katër rajone zgjedhore
+
+Projektligji propozon zëvendësimin e sistemit me 12 qarqe zgjedhore me katër rajone:
+
+	•	Rajoni verior;
+	•	Rajoni i Tiranës;
+	•	Rajoni qendror;
+	•	Rajoni jugor.
+
+Mandatet do të ndahen në nivel rajonal. Sipas relacionit, kjo synon të rrisë proporcionalitetin, të reduktojë deformimet në përfaqësim dhe të kufizojë favorizimin e partive më të mëdha.
+
+Megjithatë, ky ndryshim kërkon analizë të kujdesshme, sepse rajonet shumë të mëdha mund të dobësojnë lidhjen mes kandidatëve dhe komuniteteve lokale.
+
+5. Depolitizimi i administratës zgjedhore
+
+	•	Anëtarët e KZAZ-ve, KQV-ve dhe grupeve të numërimit nuk do të emërohen drejtpërdrejt nga partitë.
+	•	Ata do të përzgjidhen me short nga lista e qytetarëve të trajnuar dhe certifikuar nga KQZ-ja.
+	•	Kryetarët dhe sekretarët duhet të kenë formim të caktuar profesional ose juridik.
+	•	Për disa pozicione kërkohet që personat të mos kenë qenë anëtarë partie gjatë viteve të fundit.
+	•	Parashikohen trajnim, testim, certifikim dhe sanksione për moskryerjen e detyrës.
+
+Ky propozim synon të krijojë administratë zgjedhore më profesionale dhe më pak të varur nga interesat e partive.
+
+6. Votimi i personave me aftësi të kufizuara
+
+	•	Krijohen KQV të lëvizshme dhe kuti votimi të lëvizshme.
+	•	Personat që nuk mund të paraqiten në qendrën e votimit mund të kërkojnë votim në vendndodhjen e tyre.
+	•	Kërkesa duhet të shoqërohet me dokumentacion që vërteton pamundësinë për të votuar fizikisht në qendër.
+	•	KQZ-ja duhet të sigurojë transport, akses fizik, materiale informuese të përshtatura, shkrim Braille, informacion të thjeshtuar dhe interpretim në gjuhën e shenjave.
+	•	Parashikohen procedura të posaçme për ruajtjen e fshehtësisë së votës.
+	•	KQV-ja e lëvizshme shoqërohet nga policia dhe nga vëzhgues të autorizuar.
+
+Kjo pjesë e projektligjit zgjeron realisht të drejtën e votës për personat që aktualisht përballen me barriera fizike ose shqisore.
+
+7. Përmirësimi i listave të zgjedhësve
+
+	•	Regjistri Kombëtar i Zgjedhësve do të jetë elektronik, i përhershëm dhe i përditësuar në kohë reale.
+	•	Ai do të lidhet me regjistrin e gjendjes civile, regjistrat e adresave dhe burime të tjera zyrtare.
+	•	Institucionet publike do të jenë të detyruara të shkëmbejnë automatikisht të dhënat.
+	•	Krijohet një regjistër i veçantë për votuesit jashtë vendit.
+	•	Lista e zgjedhësve do t’i nënshtrohet auditimit të pavarur të paktën një herë në tre vjet.
+	•	Raporti i auditimit do të publikohet dhe do t’i paraqitet Kuvendit.
+
+Këto masa synojnë të reduktojnë pasaktësitë, dublikimet dhe problemet me adresat ose regjistrimin e votuesve.
+
+8. Kontroll më i fortë i financimit politik
+
+	•	Pranë KQZ-së krijohet një Zyrë për monitorimin dhe kontrollin e financimit të partive politike.
+	•	Zyra do të ketë të paktën dhjetë punonjës me formim financiar, ekonomik ose juridik.
+	•	Drejtori do të zgjidhet përmes konkursit publik dhe do të ketë mandat gjashtëvjeçar.
+	•	Zyra parashikohet të ketë pavarësi funksionale dhe buxhet të veçantë.
+	•	Ajo mund të bashkëpunojë me administratën tatimore, KLSH-në, strukturat antikorrupsion dhe Agjencinë e Inteligjencës Financiare.
+	•	Auditimi përfshin partitë, kandidatët e pavarur dhe subjektet e tjera zgjedhore.
+	•	Raportet e auditimit duhet të publikohen.
+
+Ky është ndër amendamentet më cilësore, sepse kontrolli i financimit të fushatave është një nga pikat më të dobëta të proceseve zgjedhore.
+
+9. Ndalimi i përdorimit të burimeve publike
+
+	•	Ndalimi shtrihet gjatë një periudhe që fillon katër muaj para zgjedhjeve.
+	•	Ndalohet përdorimi i administratës, mjeteve, fondeve, pronave dhe institucioneve publike për fushatë.
+	•	Ndalohet presioni ndaj nëpunësve publikë dhe nxënësve për të marrë pjesë në veprimtari zgjedhore.
+	•	Kufizohen punësimet, shkarkimet dhe transferimet në administratë gjatë periudhës zgjedhore.
+	•	Ndalohet miratimi i përfitimeve të posaçme, si rritje pagash, pensionesh, amnisti fiskale ose ulje taksash, deri në formimin e qeverisë ose administratës së re.
+	•	Forcohet mbrojtja e denoncuesve dhe personave të lidhur me ta.
+	•	Kur paraqiten fakte për abuzim, institucioni i denoncuar duhet të provojë se nuk ka kryer shkelje.
+
+Kjo pjesë synon të kufizojë avantazhin elektoral të pushtetit dhe përdorimin e shtetit për qëllime partiake.
+
+10. Rregulla të reja për mediat
+
+	•	RTSH-ja duhet t’u japë kohë falas partive, listave qytetare dhe KQZ-së.
+	•	Parashikohet minutazh i posaçëm për edukimin e votuesve me aftësi të kufizuara.
+	•	Partitë e reja dhe listat qytetare marrin gjithashtu hapësirë transmetimi.
+	•	Mediat private duhet të publikojnë tarifat e reklamave politike përpara fushatës.
+	•	Një pjesë e kohës reklamuese duhet t’u vihet subjekteve zgjedhore në dispozicion falas.
+	•	Parashikohen gjoba të larta për operatorët që shkelin rregullat.
+
+Propozimi përmirëson aksesin mediatik të subjekteve të vogla, por ndarja e kanaleve sipas pozitës dhe opozitës mund të krijojë probleme praktike dhe duhet formuluar më qartë.
+
+11. Numërimi i votave në qendrat e votimit
+
+	•	Votat për subjektet zgjedhore do të numërohen menjëherë në qendrën e votimit.
+	•	Votat parapëlqyese për kandidatët do të numërohen më pas në vendet e numërimit.
+	•	Rezultatet e qendrës së votimit do të miratohen dhe dërgohen në KZAZ.
+	•	KQZ-ja duhet të publikojë rezultatet sapo i merr në rrugë zyrtare dhe elektronike.
+
+Ky sistem mund të shpejtojë shpalljen e rezultateve të subjekteve, por kërkon komisione shumë të trajnuara dhe masa të forta sigurie në çdo qendër votimi.
+
+Amendamentet më cilësore dhe më të dobishme
+
+Sipas përmbajtjes së projektligjit, propozimet më të forta janë:
+
+	1	Digjitalizimi i firmave përmes e-Albania, sepse ul kostot dhe barrierat burokratike.
+	2	Listat qytetare me kandidatë të pavarur, sepse zgjerojnë konkurrencën dhe përfaqësimin.
+	3	Votimi me kuti të lëvizshme, sepse garanton të drejtën e votës për personat me aftësi të kufizuara.
+	4	Zyra e posaçme e kontrollit financiar, sepse forcon auditimin dhe transparencën.
+	5	Auditimi periodik i listave zgjedhore, sepse rrit saktësinë e regjistrit.
+	6	Depolitizimi i komisioneve zgjedhore, sepse synon administrim më profesional.
+	7	Forcimi i ndalimit të përdorimit të burimeve publike, sepse ul avantazhin e padrejtë të pushtetit.
+	8	Vota parapëlqyese reale, sepse i jep zgjedhësit më shumë ndikim mbi kandidatët që marrin mandat.
+
+Në tërësi, projektligji ka ide të rëndësishme demokratizuese. Megjithatë, disa dispozita kanë nevojë për rishikim teknik, formulim më të qartë dhe harmonizim të afateve, terminologjisë dhe numërimit të neneve përpara se të paraqiten për miratim.
