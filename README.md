@@ -1,6 +1,6 @@
 # Reforma zgjedhore
 
-A static, Albanian-first website explaining the proposed amendments to Albania’s Electoral Code, with physical-signature instructions, volunteer recruitment, original downloads, and an English overview.
+A static, Albanian-first website explaining the proposed amendments to Albania’s Electoral Code, with physical-signature instructions, form-filling guidance, volunteer recruitment, original downloads, and an English overview.
 
 ## Preview
 

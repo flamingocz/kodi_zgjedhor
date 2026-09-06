@@ -47,3 +47,11 @@ nav a{font-size:14px}
 .delivery-options strong{color:var(--ink)}
 .delivery-options a{overflow-wrap:anywhere}
 @media(max-width:600px){.delivery-options{padding:22px 18px}.delivery-options li{font-size:14px}}
+.four-steps{grid-template-columns:repeat(4,1fr)}
+.form-guidance{margin-top:34px;padding:28px;background:var(--paper);border:1px solid var(--line);border-radius:5px}
+.form-guidance h3{font-size:23px;margin-bottom:16px}
+.form-guidance ul{margin:0;padding-left:22px;color:var(--muted)}
+.form-guidance li{padding-left:7px;margin-bottom:11px;font-size:15px}
+.form-guidance li:last-child{margin-bottom:0}
+@media(max-width:1100px){.four-steps{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:600px){.four-steps{grid-template-columns:1fr}.form-guidance{padding:22px 18px}.form-guidance li{font-size:14px}}

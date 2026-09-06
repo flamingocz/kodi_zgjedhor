@@ -6,6 +6,8 @@ The Albanian, English, and bilingual leaflets now visibly say that the deadline 
 
 The supplied `reformazgjedhore-qr.svg` is embedded in the lower-right whitespace of each leaflet page and points to the website.
 
+The form-filling guidance was adapted from the linked practical diaspora guide supplied during implementation. That guide concerns a different referendum, so only the general handling rules were applied here: complete the designated fields from a valid Albanian identity document, use blue capital letters, verify the data, do not copy or photograph the ID, and sign personally. Its unrelated referendum title and dates were not copied. Per the current campaign instruction, a clear scan or photograph of the physically signed form may be emailed to `veprimi.qytetar@gmail.com`.
+
 ## Source precedence
 
 1. `Amendime Kodi zgjedhor-Veprimi Qytetar.docx` for amendment substance and article references.
