@@ -4,6 +4,8 @@ Reviewed against the supplied folder on 6 September 2026. This is an editorial i
 
 The Albanian, English, and bilingual leaflets now visibly say that the deadline will be extended and that the new date will be announced soon. No replacement date is printed until it is confirmed.
 
+The supplied `reformazgjedhore-qr.svg` is embedded in the lower-right whitespace of each leaflet page and points to the website.
+
 ## Source precedence
 
 1. `Amendime Kodi zgjedhor-Veprimi Qytetar.docx` for amendment substance and article references.
