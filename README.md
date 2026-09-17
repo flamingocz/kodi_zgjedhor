@@ -20,6 +20,7 @@ Open http://127.0.0.1:8000. No installation or build is required. `index.html` c
 - `assets/main.js`: mobile navigation and opening linked topics. Native HTML details provide the expandable sections.
 - `assets/favicon.svg`: site icon.
 - `reformazgjedhore-qr.svg`: source QR code linking to the website; it is embedded in the three downloadable leaflets.
+- `facebook-qr.png`: high-resolution QR code linking to the Veprimi Qytetar Facebook page; it is embedded beside the website QR code in the three downloadable leaflets.
 - `fill-info.png`: form-filling illustration showing where to find the document number on an Albanian identity card and passport.
 - The downloadable PDF/DOCX source files are kept in the project root. The three leaflets now show the updated 15 December 2026 signature deadline.
 
