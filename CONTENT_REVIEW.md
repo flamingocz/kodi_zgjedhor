@@ -2,7 +2,7 @@
 
 Reviewed against the supplied folder on 6 September 2026. This is an editorial implementation record, not a legal opinion or a statement of the initiative’s current legislative status.
 
-The Albanian, English, and bilingual leaflets now visibly say that the deadline will be extended and that the new date will be announced soon. No replacement date is printed until it is confirmed.
+The Albanian, English, and bilingual leaflets now show the updated signature deadline of 15 December 2026. The website’s Albanian and English deadline notices match the updated leaflets.
 
 The supplied `reformazgjedhore-qr.svg` is embedded in the lower-right whitespace of each leaflet page and points to the website.
 
@@ -18,7 +18,7 @@ The form-filling guidance was adapted from the linked practical diaspora guide s
 
 ## Items requiring organizer/editor clarification
 
-- **Collection period:** the leaflets state three months from 15 June to 15 September 2026. The local request for KQZ forms says two months. The Euronews report describes a three-month request. The official signature sheet identifies a model approved by decision 37 of 15 June 2026 but does not establish the collection deadline. The user subsequently confirmed 15 September as the announced deadline and advised that an extension is expected soon. The webpage now shows 15 September 2026 (the year in the supplied leaflets) and clearly labels the extension as expected, with no confirmed new date. The requirement of at least 20,000 signatures comes from the supplied leaflets and is distinguished from a collected-signature count. Readers are directed to the team for timing and delivery. The original leaflets are preserved and described as original materials.
+- **Collection period:** the earlier leaflet version stated three months from 15 June to 15 September 2026. The local request for KQZ forms says two months. The Euronews report describes a three-month request. The official signature sheet identifies a model approved by decision 37 of 15 June 2026 but does not establish the collection deadline. The current leaflet and website version now show 15 December 2026 as the updated signature deadline. The requirement of at least 20,000 signatures comes from the supplied leaflets and is distinguished from a collected-signature count. Readers are directed to the team for delivery arrangements.
 - **Identification abroad:** the signature form’s column is “Numri ID”; the chat instructions refer to an identity-card serial number in Albania and an Albanian passport number abroad. The page lists the actual form fields and directs overseas identification questions to Edmond instead of guessing which identifier to enter.
 - **Territorial list:** draft article 42 includes “Pukë” in a list described as counties and does not mention Lezhë. The website lists the four region names only, flags the territorial list as needing clarification, and does not invent a map or silently correct the draft.
 - **Numbering and incomplete wording:** the provision adding Code article 113/1, positioned between draft articles 66 and 68, is labeled “Neni 7” in the original. Other paragraphs are repeated or incomplete (including articles 13, 28, 49, 72 and 82). The counting summary cites unambiguous articles 66, 68–72 and related changes instead of silently relabeling the repeated 7 as 67.
@@ -36,4 +36,4 @@ The form-filling guidance was adapted from the linked practical diaspora guide s
 - All proposal explanations are framed as proposed provisions and aims, not as enacted law or guaranteed outcomes.
 - The summary’s broader description of financial-office staff qualifications is not repeated: the draft specifies economics/finance for employees and also permits law for the director.
 - The separate protected-areas referendum document is excluded.
-- The supplied leaflets were updated visually to reflect the pending extension; the draft, summary, and official form remain unchanged.
+- The supplied leaflets were updated visually to show the 15 December 2026 deadline; the draft, summary, and official form remain unchanged.

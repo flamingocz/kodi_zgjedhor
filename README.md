@@ -21,13 +21,13 @@ Open http://127.0.0.1:8000. No installation or build is required. `index.html` c
 - `assets/favicon.svg`: site icon.
 - `reformazgjedhore-qr.svg`: source QR code linking to the website; it is embedded in the three downloadable leaflets.
 - `fill-info.png`: form-filling illustration showing where to find the document number on an Albanian identity card and passport.
-- The downloadable PDF/DOCX source files are kept in the project root. The three leaflets have been updated visually to reflect the pending deadline extension.
+- The downloadable PDF/DOCX source files are kept in the project root. The three leaflets now show the updated 15 December 2026 signature deadline.
 
 Update both pages when changing the coordination contact or participation instructions. Keep `tel:+355694382248`, `https://wa.me/355694382248`, and `mailto:edmondcata@hotmail.com` consistent. Volunteer WhatsApp links include an encoded introductory message.
 
 ## Content decisions
 
-See `CONTENT_REVIEW.md` for source precedence and unresolved drafting/source discrepancies. The page shows the 20,000-signature requirement and the announced 15 September 2026 deadline. Per the organizer’s update, an extension is expected soon; no new date or live signature count is asserted. The latest instructions offer three delivery routes after physical signing: a local collector, direct post, or a scan emailed to `veprimi.qytetar@gmail.com`. Postal and volunteer coordination remain with the team at the existing contact details.
+See `CONTENT_REVIEW.md` for source precedence and unresolved drafting/source discrepancies. The page shows the 20,000-signature requirement and the updated 15 December 2026 deadline. The latest instructions offer three delivery routes after physical signing: a local collector, direct post, or a scan emailed to `veprimi.qytetar@gmail.com`. Postal and volunteer coordination remain with the team at the existing contact details.
 
 No data is collected by the website. Contact links open telephone, WhatsApp, or email services. There is no signature submission or volunteer registration backend.
 
