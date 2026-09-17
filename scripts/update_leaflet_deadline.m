@@ -33,8 +33,10 @@ static void overlayPage(PDFPage *page, CGContextRef ctx, BOOL english) {
     // Replace the small deadline panel with a stronger, bordered notice.
     // Remove the old white panel completely, then draw a single aligned panel.
     CGContextSetFillColorWithColor(ctx, [NSColor colorWithCalibratedRed:0.97 green:0.91 blue:0.93 alpha:1.0].CGColor);
-    CGContextFillRect(ctx, CGRectMake(192, 681, 180, 54));
-    CGRect panel = CGRectMake(198, 684, 168, 46);
+    // Stop just before the explanatory copy on the right so the cleanup
+    // background does not obscure its first line.
+    CGContextFillRect(ctx, CGRectMake(190, 674, 380, 68));
+    CGRect panel = CGRectMake(198, 680, 168, 54);
     NSColor *red = [NSColor colorWithCalibratedRed:0.78 green:0.10 blue:0.16 alpha:1.0];
     NSColor *green = [NSColor colorWithCalibratedRed:0.08 green:0.25 blue:0.22 alpha:1.0];
     CGContextSetFillColorWithColor(ctx, [NSColor colorWithCalibratedRed:1.0 green:0.95 blue:0.78 alpha:1.0].CGColor);
@@ -51,6 +53,19 @@ static void overlayPage(PDFPage *page, CGContextRef ctx, BOOL english) {
         drawText(ctx, @"15 DHJETOR 2026", 203, 699, 10.0, YES, red.CGColor);
     }
 
+    // Restore the explanatory paragraph beside the deadline after cleaning
+    // the old panel background, keeping every word fully visible.
+    NSColor *body = [NSColor colorWithCalibratedWhite:0.08 alpha:1.0];
+    if (english) {
+        drawText(ctx, @"Signature does not automatically enact", 370, 718, 7.0, NO, body.CGColor);
+        drawText(ctx, @"the bill. It gives the initiative the legal", 370, 706, 7.0, NO, body.CGColor);
+        drawText(ctx, @"basis to be submitted to Parliament.", 370, 694, 7.0, NO, body.CGColor);
+    } else {
+        drawText(ctx, @"Firma nuk e miraton automatikisht ligjin.", 370, 718, 7.0, NO, body.CGColor);
+        drawText(ctx, @"Ajo i jep nismës bazën ligjore për t'u", 370, 706, 7.0, NO, body.CGColor);
+        drawText(ctx, @"paraqitur në Kuvend.", 370, 694, 7.0, NO, body.CGColor);
+    }
+
     // Add a second, clearly labelled QR code for the Facebook page beside the
     // existing website QR code in the lower-right whitespace.
     NSURL *qrURL = [NSURL fileURLWithPath:@"facebook-qr.png"];
@@ -63,9 +78,16 @@ static void overlayPage(PDFPage *page, CGContextRef ctx, BOOL english) {
         CGContextFillRect(ctx, qrBox);
         CGContextSetInterpolationQuality(ctx, kCGInterpolationNone);
         CGContextDrawImage(ctx, CGRectMake(409, 87, 55, 55), facebookQR);
-        drawText(ctx, @"FACEBOOK", 436, 82, 5.0, YES, red.CGColor);
+        // Keep both lines centered beneath this QR and inside its own box.
+        drawText(ctx, english ? @"FACEBOOK PAGE" : @"FAQJA FACEBOOK", 414, 82, 4.0, YES, red.CGColor);
+        drawText(ctx, @"VEPRIMI QYTETAR", 414, 76, 4.0, YES, red.CGColor);
         CGImageRelease(facebookQR);
     }
+
+    // Replace the generic label under the existing reform website QR code.
+    CGContextSetFillColorWithColor(ctx, [NSColor whiteColor].CGColor);
+    CGContextFillRect(ctx, CGRectMake(472, 70, 104, 18));
+    drawText(ctx, english ? @"ELECTORAL CODE REFORM WEBSITE" : @"FAQJA PËR REFORMËN ZGJEDHORE", 474, 76, 4.0, YES, [NSColor colorWithCalibratedWhite:0.08 alpha:1.0].CGColor);
 
     // Rebuild the lower callout so the QR area cannot cut off the black block.
     CGContextSetFillColorWithColor(ctx, [NSColor whiteColor].CGColor);
