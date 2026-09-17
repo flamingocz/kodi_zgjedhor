@@ -73,14 +73,17 @@ static void overlayPage(PDFPage *page, CGContextRef ctx, BOOL english) {
     CGImageRef facebookQR = source ? CGImageSourceCreateImageAtIndex(source, 0, NULL) : NULL;
     if (source) CFRelease(source);
     if (facebookQR) {
-        CGRect qrBox = CGRectMake(404, 78, 65, 82);
+        // Remove the previous Facebook QR placement from the source leaflet.
+        CGContextSetFillColorWithColor(ctx, [NSColor whiteColor].CGColor);
+        CGContextFillRect(ctx, CGRectMake(395, 70, 78, 95));
+        CGRect qrBox = CGRectMake(42, 78, 85, 82);
         CGContextSetFillColorWithColor(ctx, [NSColor whiteColor].CGColor);
         CGContextFillRect(ctx, qrBox);
         CGContextSetInterpolationQuality(ctx, kCGInterpolationNone);
-        CGContextDrawImage(ctx, CGRectMake(409, 87, 55, 55), facebookQR);
+        CGContextDrawImage(ctx, CGRectMake(47, 87, 55, 55), facebookQR);
         // Keep both lines centered beneath this QR and inside its own box.
-        drawText(ctx, english ? @"FACEBOOK PAGE" : @"FAQJA FACEBOOK", 414, 82, 4.0, YES, red.CGColor);
-        drawText(ctx, @"VEPRIMI QYTETAR", 414, 76, 4.0, YES, red.CGColor);
+        drawText(ctx, english ? @"FACEBOOK PAGE" : @"FAQJA FACEBOOK", 47, 82, 4.0, YES, red.CGColor);
+        drawText(ctx, @"VEPRIMI QYTETAR", 47, 76, 4.0, YES, red.CGColor);
         CGImageRelease(facebookQR);
     }
 
