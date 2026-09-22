@@ -68,6 +68,7 @@ nav a{font-size:14px}
 .delivery-options a{overflow-wrap:anywhere}
 @media(max-width:600px){.delivery-options{padding:22px 18px}.delivery-options li{font-size:14px}}
 @media(max-width:900px){.current-code ul{grid-template-columns:1fr}}
+@media(min-width:1101px){.feature-grid{grid-template-columns:repeat(3,1fr)}}
 .four-steps{grid-template-columns:repeat(4,1fr)}
 .form-guidance{margin-top:34px;padding:30px;background:var(--paper);border:2px solid var(--accent);border-radius:6px;box-shadow:6px 6px 0 rgba(180,59,41,.1)}
 .guidance-heading{display:flex;align-items:flex-start;gap:16px;padding-bottom:22px;margin-bottom:4px;border-bottom:1px solid #e7c5bc}
